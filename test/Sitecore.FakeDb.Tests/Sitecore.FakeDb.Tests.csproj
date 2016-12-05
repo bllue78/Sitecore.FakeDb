@@ -214,6 +214,7 @@
     <Compile Include="Links\FakeLinkDatabaseTest.cs" />
     <Compile Include="Links\LinkManagerTest.cs" />
     <Compile Include="Links\LinkProviderSwitcherTest.cs" />
+    <Compile Include="Links\SwitchingLinkManagerTest.cs" />
     <Compile Include="Links\SwitchingLinkProviderTest.cs" />
     <Compile Include="IdBasedFieldGeneratorTest.cs" />
     <Compile Include="IdNameFieldBuilderTest.cs" />
