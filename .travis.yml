@@ -1,0 +1,4 @@
+﻿language: csharp
+solution: Sitecore.FakeDb.sln
+script:
+  - xbuild /p:Configuration=Release /t:Compile /p:NoWarn=1591 /p:Version=8.1.160519 /p:TargetFrameworkFolder=NET45
